@@ -4,8 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-# Alex Peruso
-## IT Engineer
+## Contact Info
 
 **Pittsburgh, PA** | **412.444.8064** | **me@alexperuso.com**
 

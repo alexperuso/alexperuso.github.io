@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: page
+title: Home
 ---
 
-# Alex Peruso
-## IT Engineer
+# About Me
 
 I'm an IT Engineer with 9+ years of experience specializing in enterprise system administration, automation, and infrastructure management.
 
