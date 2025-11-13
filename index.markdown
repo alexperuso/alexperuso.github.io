@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+# Alex Peruso
+## IT Engineer
+
+I'm an IT Engineer with 9+ years of experience specializing in enterprise system administration, automation, and infrastructure management.
+
+[View My Resume](/resume/)
+
+### Contact
+- **Email:** me@alexperuso.com
+- **Phone:** 412.444.8064
