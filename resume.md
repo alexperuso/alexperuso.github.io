@@ -80,4 +80,4 @@ permalink: /resume/
 ## Education
 
 **Saint Francis University** | B.S. in Management Information Systems
-**August 2011 - May 2015 | Loretto, PA**
+**August 2011 - May 2015** | **Loretto, PA**
